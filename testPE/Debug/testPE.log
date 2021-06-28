@@ -1,0 +1,16 @@
+﻿  WIN.cpp
+c:\users\elvin\source\repos\testpe\testpe\win.cpp(90): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "long"
+c:\users\elvin\source\repos\testpe\testpe\win.cpp(94): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "long"
+c:\users\elvin\source\repos\testpe\testpe\win.cpp(132): warning C4477: "printf": в строке форматирования "%-35s" требуется аргумент типа "char *", но вариативный аргумент "2" имеет тип "unsigned long"
+c:\users\elvin\source\repos\testpe\testpe\win.cpp(132): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "3" имеет тип "unsigned long"
+c:\users\elvin\source\repos\testpe\testpe\win.cpp(133): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "2" имеет тип "unsigned long"
+c:\users\elvin\source\repos\testpe\testpe\win.cpp(133): warning C4474: "printf" : для строки формата передано слишком много аргументов
+  c:\users\elvin\source\repos\testpe\testpe\win.cpp(133): note: заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 3
+c:\users\elvin\source\repos\testpe\testpe\win.cpp(135): warning C4477: "printf": в строке форматирования "%-35s" требуется аргумент типа "char *", но вариативный аргумент "2" имеет тип "unsigned long"
+c:\users\elvin\source\repos\testpe\testpe\win.cpp(150): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "unsigned long"
+c:\users\elvin\source\repos\testpe\testpe\win.cpp(156): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "unsigned long"
+c:\users\elvin\source\repos\testpe\testpe\win.cpp(174): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "unsigned long"
+c:\users\elvin\source\repos\testpe\testpe\win.cpp(196): warning C4473: "printf": передано недостаточно аргументов для строки формата
+  c:\users\elvin\source\repos\testpe\testpe\win.cpp(196): note: заполнители и их параметры ожидают переменное число аргументов в количестве 7, но было предоставлено 6
+  c:\users\elvin\source\repos\testpe\testpe\win.cpp(196): note: отсутствующий вариативный аргумент "7" требуется для строки форматирования "%X"
+  testPE.vcxproj -> C:\Users\Elvin\source\repos\testPE\Debug\testPE.exe
